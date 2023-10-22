@@ -1,0 +1,55 @@
+{
+  "name": "Neil",
+  "description": "222 Axolotls swimming through AVAX! Find these cute amphibians at a campfire near you! 10% of all mint proceeds are donated to the WWF. Launched through HODL co.",
+  "image": "https://raw.githubusercontent.com/HODL-Community/AVAXolotls-NFT-Collection/main/images/77.png",
+  "dna": "56f39f757e4ca94a1b3bf2d4127ac78523715ec2",
+  "edition": 77,
+  "date": 1660180672620,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Planet"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Nebula"
+    },
+    {
+      "trait_type": "Gills",
+      "value": "Purple"
+    },
+    {
+      "trait_type": "Clothing",
+      "value": "Space Suit"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Smoking"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Black"
+    },
+    {
+      "trait_type": "Glasses",
+      "value": "None"
+    },
+    {
+      "trait_type": "Hat",
+      "value": "Empowered Space Crown"
+    },
+    {
+      "trait_type": "Accessory",
+      "value": "None"
+    },
+    {
+        "trait_type": "Back",
+        "value": "Magic Staff"
+    },
+	{
+		"trait_type": "Named",
+		"value": "Yes"
+	}
+  ],
+  "compiler": "HashLips Art Engine"
+}
