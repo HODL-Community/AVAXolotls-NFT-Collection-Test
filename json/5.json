@@ -8,7 +8,7 @@
     "attributes": [
         {
             "trait_type": "Background",
-            "value": "Lava"
+            "value": "Underwater"
         },
         {
             "trait_type": "Skin",
@@ -16,11 +16,11 @@
         },
         {
             "trait_type": "Gills",
-            "value": "Red"
+            "value": "Blue"
         },
         {
             "trait_type": "Clothing",
-            "value": "None"
+            "value": "Purple Jacket"
         },
         {
             "trait_type": "Mouth",
@@ -28,11 +28,11 @@
         },
         {
             "trait_type": "Eyes",
-            "value": "Orange"
+            "value": "Closed"
         },
         {
             "trait_type": "Glasses",
-            "value": "None"
+            "value": "3D Glasses"
         },
         {
             "trait_type": "Hat",
