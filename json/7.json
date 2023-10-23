@@ -8,43 +8,43 @@
     "attributes": [
         {
             "trait_type": "Background",
-            "value": "Ruins"
+            "value": "Underwater"
         },
         {
             "trait_type": "Back",
-            "value": "AK-47"
-        },
-        {
-            "trait_type": "Skin",
-            "value": "Pink"
-        },
-        {
-            "trait_type": "Gills",
-            "value": "Black"
-        },
-        {
-            "trait_type": "Accessory",
-            "value": "ETH Gillrings"
-        },
-        {
-            "trait_type": "Clothing",
-            "value": "Mobster"
-        },
-        {
-            "trait_type": "Eyes",
-            "value": "Pink"
-        },
-        {
-            "trait_type": "Glasses",
             "value": "None"
         },
         {
+            "trait_type": "Skin",
+            "value": "Blue"
+        },
+        {
+            "trait_type": "Gills",
+            "value": "Blue"
+        },
+        {
+            "trait_type": "Accessory",
+            "value": "None"
+        },
+        {
+            "trait_type": "Clothing",
+            "value": "Purple Jacket"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Closed"
+        },
+        {
+            "trait_type": "Glasses",
+            "value": "3D Glasses"
+        },
+        {
             "trait_type": "Hat",
-            "value": "Pinstripe Fedora"
+            "value": "None"
         },
         {
             "trait_type": "Mouth",
-            "value": "Toothy Grin"
+            "value": "Grin"
         }
     ],
     "compiler": "HashLips Art Engine"
