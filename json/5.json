@@ -8,39 +8,39 @@
     "attributes": [
         {
             "trait_type": "Background",
-            "value": "Ruins"
+            "value": "Underwater"
         },
         {
             "trait_type": "Skin",
-            "value": "Pink"
+            "value": "Blue"
         },
         {
             "trait_type": "Gills",
-            "value": "Black"
+            "value": "Blue"
         },
         {
             "trait_type": "Clothing",
-            "value": "Mobster"
+            "value": "Purple Jacket"
         },
         {
             "trait_type": "Mouth",
-            "value": "Toothy Grin"
+            "value": "Grin"
         },
         {
             "trait_type": "Eyes",
-            "value": "Pink"
+            "value": "Closed"
         },
         {
             "trait_type": "Glasses",
-            "value": "None"
+            "value": "3D Glasses"
         },
         {
             "trait_type": "Hat",
-            "value": "Pinstripe Fedora"
+            "value": "None"
         },
         {
             "trait_type": "Accessory",
-            "value": "ETH Gillrings"
+            "value": "None"
         }
     ],
     "compiler": "HashLips Art Engine"
