@@ -1,47 +1,49 @@
 {
-    "name": "AVAXolotl #2",
-    "description": "222 Axolotls swimming through AVAX! Find these cute amphibians at a campfire near you! 10% of all mint proceeds are donated to the WWF. Launched through HODL co.",
-    "image": "https://raw.githubusercontent.com/HODL-Community/AVAXolotls-NFT-Collection-Test/main/images/2.png",
-    "dna": "df7bac236b6a47295bc4ae3fc20011676de58f25",
-    "edition": 2,
-    "date": 1660180532216,
-    "attributes": [
-        {
-            "trait_type": "Background",
-            "value": "Underwater"
-        },
-        {
-            "trait_type": "Skin",
-            "value": "Pink"
-        },
-        {
-            "trait_type": "Gills",
-            "value": "Red"
-        },
-        {
-            "trait_type": "Accessory",
-            "value": "None"
-        },
-        {
-            "trait_type": "Clothing",
-            "value": "Parka"
-        },
-        {
-            "trait_type": "Mouth",
-            "value": "Tongue Out"
-        },
-        {
-            "trait_type": "Eyes",
-            "value": "Black"
-        },
-        {
-            "trait_type": "Glasses",
-            "value": "None"
-        },
-        {
-            "trait_type": "Hat",
-            "value": "None"
-        }
-    ],
-    "compiler": "HashLips Art Engine"
+  "name": "AVAXolotl #1",
+  "description": "222 Axolotls swimming through AVAX! Find these cute amphibians at a campfire near you! 10% of all mint proceeds are donated to the WWF. Launched through HODL co.",
+  "image": "https://raw.githubusercontent.com/HODL-Community/AVAXolotls-NFT-Collection/main/images/1.png",
+  "dna": "79411ae02976e915fb429caced40798d9a2da9b4",
+  "edition": 1,
+  "date": 1660180530232,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Underwater"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Pink"
+
+      
+    },
+    {
+      "trait_type": "Gills",
+      "value": "Pink"
+    },
+    {
+      "trait_type": "Clothing",
+      "value": "Purple Jacket"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Grin"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Orange"
+    },
+    {
+      "trait_type": "Glasses",
+      "value": "3D Glasses"
+    },
+    {
+      "trait_type": "Hat",
+      "value": "None"
+    },
+    {
+      "trait_type": "Accessory",
+      "value": "None"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
 }

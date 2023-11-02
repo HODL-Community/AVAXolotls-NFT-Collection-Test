@@ -1,10 +1,10 @@
 {
-    "name": "AVAXolotl #3",
+    "name": "AVAXolotl #2",
     "description": "222 Axolotls swimming through AVAX! Find these cute amphibians at a campfire near you! 10% of all mint proceeds are donated to the WWF. Launched through HODL co.",
-    "image": "https://raw.githubusercontent.com/HODL-Community/AVAXolotls-NFT-Collection-Test/main/images/3.png",
-    "dna": "649c616b5445cc1eb41511eb6785636219a929f6",
-    "edition": 3,
-    "date": 1660180534063,
+    "image": "https://raw.githubusercontent.com/HODL-Community/AVAXolotls-NFT-Collection/main/images/2.png",
+    "dna": "df7bac236b6a47295bc4ae3fc20011676de58f25",
+    "edition": 2,
+    "date": 1660180532216,
     "attributes": [
         {
             "trait_type": "Background",
@@ -12,15 +12,19 @@
         },
         {
             "trait_type": "Skin",
-            "value": "Orange"
+            "value": "Dark Green"
         },
         {
             "trait_type": "Gills",
-            "value": "Pink"
+            "value": "Red"
+        },
+        {
+            "trait_type": "Accessory",
+            "value": "None"
         },
         {
             "trait_type": "Clothing",
-            "value": "Purple Jacket"
+            "value": "Parka"
         },
         {
             "trait_type": "Mouth",
@@ -28,7 +32,7 @@
         },
         {
             "trait_type": "Eyes",
-            "value": "Red"
+            "value": "Black"
         },
         {
             "trait_type": "Glasses",
@@ -36,10 +40,6 @@
         },
         {
             "trait_type": "Hat",
-            "value": "None"
-        },
-        {
-            "trait_type": "Accessory",
             "value": "None"
         }
     ],
