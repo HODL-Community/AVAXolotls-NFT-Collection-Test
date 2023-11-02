@@ -1,47 +1,51 @@
 {
-  "name": "AVAXolotl #4",
-  "description": "222 Axolotls swimming through AVAX! Find these cute amphibians at a campfire near you! 10% of all mint proceeds are donated to the WWF. Launched through HODL co.",
-  "image": "https://raw.githubusercontent.com/HODL-Community/AVAXolotls-NFT-Collection/main/images/4.png",
-  "dna": "fa56cd46587a972c651a24683b21ae282e2f3a72",
-  "edition": 4,
-  "date": 1660180535903,
-  "attributes": [
-    {
-      "trait_type": "Background",
-      "value": "Lava"
-    },
-    {
-      "trait_type": "Skin",
-      "value": "Blue"
-    },
-    {
-      "trait_type": "Gills",
-      "value": "Red"
-    },
-    {
-      "trait_type": "Clothing",
-      "value": "None"
-    },
-    {
-      "trait_type": "Mouth",
-      "value": "Grin"
-    },
-    {
-      "trait_type": "Eyes",
-      "value": "Orange"
-    },
-    {
-      "trait_type": "Glasses",
-      "value": "None"
-    },
-    {
-      "trait_type": "Hat",
-      "value": "None"
-    },
-    {
-      "trait_type": "Accessory",
-      "value": "None"
-    }
-  ],
-  "compiler": "HashLips Art Engine"
+    "name": "AVAXolotl #4",
+    "description": "222 Axolotls swimming through AVAX! Find these cute amphibians at a campfire near you! 10% of all mint proceeds are donated to the WWF. Launched through HODL co.",
+    "image": "https://raw.githubusercontent.com/HODL-Community/AVAXolotls-NFT-Collection/main/images/4.png",
+    "dna": "fa56cd46587a972c651a24683b21ae282e2f3a72",
+    "edition": 4,
+    "date": 1660180535903,
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "Lava"
+        },
+        {
+            "trait_type": "Skin",
+            "value": "Blue"
+        },
+        {
+            "trait_type": "Gills",
+            "value": "Red"
+        },
+        {
+            "trait_type": "Clothing",
+            "value": "None"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Grin"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Orange"
+        },
+        {
+            "trait_type": "Glasses",
+            "value": "None"
+        },
+        {
+            "trait_type": "Hat",
+            "value": "None"
+        },
+        {
+            "trait_type": "Accessory",
+            "value": "None"
+        },
+        {
+            "trait_type": "Back",
+            "value": "None"
+        }
+    ],
+    "compiler": "HashLips Art Engine"
 }
