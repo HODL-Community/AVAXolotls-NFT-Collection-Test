@@ -1,0 +1,51 @@
+{
+  "name": "AVAXolotl #60",
+  "description": "222 Axolotls swimming through AVAX! Find these cute amphibians at a campfire near you! 10% of all mint proceeds are donated to the WWF. Launched through HODL co.",
+  "image": "https://raw.githubusercontent.com/HODL-Community/AVAXolotls-NFT-Collection/main/images/60.png",
+  "dna": "93612079306f6149b26468c24ba73c00f0a6831a",
+  "edition": 60,
+  "date": 1660180640906,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Mountains"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Orange"
+    },
+    {
+      "trait_type": "Gills",
+      "value": "Orange"
+    },
+    {
+      "trait_type": "Clothing",
+      "value": "ETH Jacket"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Grin"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Blue"
+    },
+    {
+      "trait_type": "Glasses",
+      "value": "None"
+    },
+    {
+      "trait_type": "Hat",
+      "value": "ETH Cap"
+    },
+    {
+      "trait_type": "Accessory",
+      "value": "None"
+    },
+    {
+      "trait_type": "Back",
+      "value": "Flames"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}
